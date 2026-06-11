@@ -10,11 +10,11 @@
 Building AI-powered applications, automation tools, and scalable web solutions.
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Python+Developer;AI+%26+ML+Enthusiast;NLP+%26+Generative+AI;Automation+Developer;Data+Analytics+Explorer;Always+Building+Something+Cool+🚀" />
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbhijeetSingh-Git&label=Profile+Views&color=blue&style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=800&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Python+Developer;AI+%26+ML+Enthusiast;Automation+Developer;Data+Analytics+Explorer" />
 </p>
+
+
 
 </div>
 
