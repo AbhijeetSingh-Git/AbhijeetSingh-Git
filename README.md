@@ -224,11 +224,11 @@ Python • APIs • Automation
 
 # 🤝 Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: abhijeetsinghgautam51@gmail.com
 
-💼 LinkedIn: Your LinkedIn Profile
+💼 LinkedIn: https://www.linkedin.com/in/abhijeet-singh-388488319/
 
-🌐 Portfolio: Coming Soon
+🌐 Portfolio: https://abhijeetsingh1310.netlify.app/
 
 🐙 GitHub: https://github.com/AbhijeetSingh-Git
 
